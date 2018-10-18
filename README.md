@@ -1,5 +1,5 @@
 # LearningRust
-Focusing on embedded uses of [Rust](https://www.rust-lang.org)
+Focusing on embedded uses of [Rust](https://www.rust-lang.org) see [Rust and Microcontrollers](https://rust-embedded.github.io/discovery/)
 
 See associated [wiki](https://github.com/NickAger/LearningRust/wiki)
 
