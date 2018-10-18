@@ -53,6 +53,17 @@ fn call_with_different_values() {
     assert_eq!(v2, &2);
 }
 
+#[test]
+fn call_with_string() {
+    let mut c = Cacher::new(|a| a.len());
+
+    let v1 = c.value(&1);
+    let v2 = c.value(&2);
+
+    assert_eq!(v1, &1);
+    assert_eq!(v2, &2);
+}
+
 fn main() {
     let simulated_user_specified_value = 10;
     let simulated_random_number = 7;
