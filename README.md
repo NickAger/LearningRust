@@ -1,6 +1,9 @@
 # LearningRust
 Focusing on embedded uses of [Rust](https://www.rust-lang.org) see:
+* [The Rust Programming Language - standard online text](https://doc.rust-lang.org/book/index.html)
 * [Rust and Microcontrollers](https://rust-embedded.github.io/discovery/)
+* [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nomicon/)
+* [Rust Koans](https://github.com/crazymykl/rust-koans)
 * associated [wiki](https://github.com/NickAger/LearningRust/wiki)
 
 ## Borrow checker
@@ -10,6 +13,7 @@ Focusing on embedded uses of [Rust](https://www.rust-lang.org) see:
 From: [Non lexical lifetimes RFC](https://github.com/nikomatsakis/nll-rfc/blob/master/0000-nonlexical-lifetimes.md#how-we-teach-this)
 
 ## Swift on a Cortex M3
+Alternatives:
 * [Presentation from Steven Gray - “Programming the Internet of Things with Swift”](SwiftThings.pdf)
 
 
