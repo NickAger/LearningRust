@@ -4,6 +4,7 @@ Focusing on embedded uses of [Rust](https://www.rust-lang.org) see:
 * [Rust and Microcontrollers](https://rust-embedded.github.io/discovery/) - embedded systems with Rust.
 * [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nomicon/)
 * [Rust Koans](https://github.com/crazymykl/rust-koans)
+* [Rustlings](https://github.com/rustlings/rustlings) - Small exercises to get you used to reading and writing Rust code
 * associated [wiki](https://github.com/NickAger/LearningRust/wiki)
 
 # Rust
