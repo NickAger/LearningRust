@@ -5,6 +5,7 @@ Focusing on embedded uses of [Rust](https://www.rust-lang.org) see:
 * [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nomicon/)
 * [Rust Koans](https://github.com/crazymykl/rust-koans)
 * [Rustlings](https://github.com/rustlings/rustlings) - Small exercises to get you used to reading and writing Rust code
+* [Bare-metal Raspberry Pi 3 tutorials in Rust](https://github.com/rust-embedded/rust-raspi3-tutorial)
 * associated [wiki](https://github.com/NickAger/LearningRust/wiki)
 
 # Rust
