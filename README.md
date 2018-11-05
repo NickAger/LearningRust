@@ -6,6 +6,7 @@ Focusing on embedded uses of [Rust](https://www.rust-lang.org) see:
 * [Rust Koans](https://github.com/crazymykl/rust-koans)
 * [Rustlings](https://github.com/rustlings/rustlings) - Small exercises to get you used to reading and writing Rust code
 * [Bare-metal Raspberry Pi 3 tutorials in Rust](https://github.com/rust-embedded/rust-raspi3-tutorial)
+* [FP Complete Rust crash course](https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course)
 * associated [wiki](https://github.com/NickAger/LearningRust/wiki)
 
 # Rust
