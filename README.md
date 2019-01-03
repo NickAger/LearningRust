@@ -1,6 +1,7 @@
 # LearningRust
 Focusing on embedded uses of [Rust](https://www.rust-lang.org) see:
 * [The Rust Programming Language - standard online text](https://doc.rust-lang.org/book/index.html)
+* [Async in Rust](https://aturon.github.io/apr/async-in-rust/chapter.html)
 * [Rust and Microcontrollers](https://rust-embedded.github.io/discovery/) - embedded systems with Rust.
 * [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nomicon/)
 * [Rust Koans](https://github.com/crazymykl/rust-koans)
