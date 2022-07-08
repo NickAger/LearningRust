@@ -9,6 +9,7 @@ Focusing on embedded uses of [Rust](https://www.rust-lang.org) see:
 * [Bare-metal Raspberry Pi 3 tutorials in Rust](https://github.com/rust-embedded/rust-raspi3-tutorial)
 * [FP Complete Rust crash course](https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course)
 * associated [wiki](https://github.com/NickAger/LearningRust/wiki)
+* [C++ & Rust: (Interior) Mutability, Moving and Ownership](https://www.tangramvision.com/blog/c-rust-interior-mutability-moving-and-ownership)
 
 # Rust
 Rust a language that has "speed, correctness, and expressiveness" in the same language.
