@@ -1,4 +1,6 @@
 # LearningRust
+* https://serokell.io/blog/rust-for-haskellers
+
 Focusing on embedded uses of [Rust](https://www.rust-lang.org) see:
 * [The Rust Programming Language - standard online text](https://doc.rust-lang.org/book/index.html)
 * [Async in Rust](https://aturon.github.io/apr/async-in-rust/chapter.html)
