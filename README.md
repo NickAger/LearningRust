@@ -2,6 +2,7 @@
 * https://serokell.io/blog/rust-for-haskellers
 
 Focusing on embedded uses of [Rust](https://www.rust-lang.org) see:
+* [This is a three day Rust course developed by the Android team](https://google.github.io/comprehensive-rust/welcome.html) - covers some Bare metal embedded work as well as concurrency.
 * [The Rust Programming Language - standard online text](https://doc.rust-lang.org/book/index.html)
 * [Async in Rust](https://aturon.github.io/apr/async-in-rust/chapter.html)
 * [Rust and Microcontrollers](https://rust-embedded.github.io/discovery/) - embedded systems with Rust.
